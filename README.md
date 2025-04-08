@@ -1,13 +1,11 @@
-# GusGames64
+GusGames64 is a collection of small games
 
-a collection of small games
-
-for the Commodore 64
+on the Commodore 64
 
 written by Gustaf Stechmann
 
 in BASIC
 
-in 1984-1985.
+between 1984 and 1985.
 
 https://youtu.be/F_2xiZ83_is
